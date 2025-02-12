@@ -1,4 +1,4 @@
-# Hi, I am Rami Sima'an:
+# Hi, I am Rami Sima'an :)
  👨🏻‍💻Passionate Software Engineer Looking for my first opportunity in Tech.<br>🖥️ 🧪 Studied my bachelor in Computer Science at the University of Haifa.<br>🙌 Sharing my journey to get my first software engineering role<br>⛰️ Currently working on Top-down Octree based generation for procedural terrain.<br>
 
 
@@ -14,9 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rami-Si7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rami-Si7&icon=0&color=0)](https://visitcount.itsvg.in)
