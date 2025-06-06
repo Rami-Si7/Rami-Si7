@@ -1,5 +1,5 @@
 # Hi, I am Rami Sima'an :)
- 👨🏻‍💻Passionate Software Engineer Looking for my first opportunity in Tech.<br>🖥️ 🧪 Studied my bachelor in Computer Science at the University of Haifa.<br>🙌 Sharing my journey to get my first software engineering role<br>⛰️ Currently working on Top-down Octree based generation for procedural terrain.<br>
+ 👨🏻‍💻Passionate Software Engineer Looking for my first opportunity in Tech.<br>🖥️ 🧪I am currently a MSc student in computer science. I've studied my bachelor in Computer Science at the University of Haifa.<br>🙌 Sharing my journey to get my first software engineering role<br>.
 
 
 # 💻 Tech Stack
